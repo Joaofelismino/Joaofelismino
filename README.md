@@ -2,13 +2,24 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&duration=3000&pause=1000&color=1BFF6C&background=FFFFFF00&center=true&random=true&width=700&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o.+;Sou+um+iniciante+em+TI.)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=3000&pause=1000&color=1BFF6C&background=FFFFFF00&center=true&vCenter=true&random=true&width=900&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Lucas." alt="Typing SVG" /></a>
+
+</p>
 
 ###
-
+<h2 align="left">Sobre mim</h2>
 <p align="left">Tenho 26 anos, curso Análise e Desenvolvimento de Sistemas e sou Iniciante no mundo de TI.</p>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaofelismino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="195" alt="stats graph"  /><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Joaofelismino&theme=blue-green&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+
 
 ###
+
+
 
 <h2 align="left">Estudando:</h2>
 
@@ -26,10 +37,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaofelismino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaofelismino&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+
 
 ###
 
