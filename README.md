@@ -1,4 +1,20 @@
-<h2 align="left">Iniciante no mundo de TI.<br>Aprendendo: <br>-JavaScript<br> -SQL</h2>
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">Iniciante no mundo de TI.<br>Aprendendo: <br>-JavaScript<br> -SQL</p>
+
+###
+
+<h3 align="left">Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
 ###
 
@@ -10,7 +26,7 @@
 
 ###
 
-<h2 align="left">Mídias Sociais</h2>
+<h3 align="left">Mídias Sociais</h3>
 
 ###
 
