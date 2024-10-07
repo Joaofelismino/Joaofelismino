@@ -1,6 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/582c7d0a-3e04-47b9-a538-3d74b75b481d"/>
-<br>
-<br>
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=3000&pause=1000&color=1BFF6C&background=FFFFFF00&center=true&vCenter=true&random=true&width=900&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Lucas." alt="Typing SVG" /></a>
@@ -61,5 +59,3 @@
 </div>
 
 ###
-
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/6ad8a79b-1639-42ca-9421-d8c5afd301fc"/>
