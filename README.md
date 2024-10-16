@@ -17,12 +17,6 @@
 
 ###
 
-<div>
-  
-<p align="center">
-  <img src="https://contribution.catsjuice.com/_/Joaofelismino?chart=3dbar&gap=0.6&scale=2&light=12&flatten=0&animation=wave&animation_duration=1&animation_delay=NaN&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=native&widget_size=medium&dark=true">
-</p>
-
 </div>
 
 <h2 align="left">Estudando:</h2>
