@@ -1,4 +1,16 @@
-## João Lucas 👋
+# Olá, me chamo João Lucas 👋
+
+**`Analista de Testes`**
+
+* Em transição para área de **Quality Assurance (QA)**
+* Me aprofundando em Testes Manuais
+* Cursando a MasterClass Quazando, o curso Expedição Qway e Qualiters Club
+* Aluno de Análise e Desenvolvimento de sistemas
+* [Portifólio]
+
+## Estudando:
+
+## Ferramentas:
 
 <!--
 **Joaofelismino/Joaofelismino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
